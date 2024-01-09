@@ -26,6 +26,13 @@ def print_numbers(n):
         else:
             print(i)
         i += 1
+else:
+print(i)
+i += 2
+if else:
+print (a)
+i += (b);
+
 
 # Flowgraph:
 #       ______
